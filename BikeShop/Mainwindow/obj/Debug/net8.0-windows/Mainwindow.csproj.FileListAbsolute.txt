@@ -20,3 +20,5 @@ E:\Study\WPF\BikeShop\Mainwindow\obj\Debug\net8.0-windows\Mainwindow.genruntimec
 E:\Study\WPF\BikeShop\Mainwindow\obj\Debug\net8.0-windows\ref\Mainwindow.dll
 E:\Study\WPF\BikeShop\Mainwindow\obj\Debug\net8.0-windows\Contact.g.cs
 E:\Study\WPF\BikeShop\Mainwindow\obj\Debug\net8.0-windows\Contact.baml
+E:\Study\WPF\BikeShop\Mainwindow\obj\Debug\net8.0-windows\Menu.g.cs
+E:\Study\WPF\BikeShop\Mainwindow\obj\Debug\net8.0-windows\Menu.baml
