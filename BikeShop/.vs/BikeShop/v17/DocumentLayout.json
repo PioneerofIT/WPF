@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "E:\\Study\\WPF\\BikeShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|e:\\study\\wpf\\bikeshop\\mainwindow\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|solutionrelative:mainwindow\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|e:\\study\\wpf\\bikeshop\\mainwindow\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|solutionrelative:mainwindow\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|e:\\study\\wpf\\bikeshop\\mainwindow\\mainwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|solutionrelative:mainwindow\\mainwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|e:\\study\\wpf\\bikeshop\\mainwindow\\discussion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|solutionrelative:mainwindow\\discussion.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|e:\\study\\wpf\\bikeshop\\mainwindow\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|solutionrelative:mainwindow\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|e:\\study\\wpf\\bikeshop\\mainwindow\\mainwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|solutionrelative:mainwindow\\mainwindow.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C07D0EF1-74BB-401E-AFB4-F9CC1BDEFC90}|Mainwindow\\Mainwindow.csproj|e:\\study\\wpf\\bikeshop\\mainwindow\\contact.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -51,19 +55,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Discussion.xaml",
+              "DocumentMoniker": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\Discussion.xaml",
+              "RelativeDocumentMoniker": "Mainwindow\\Discussion.xaml",
+              "ToolTip": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\Discussion.xaml",
+              "RelativeToolTip": "Mainwindow\\Discussion.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-27T14:54:50.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Menu.xaml.cs",
               "DocumentMoniker": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\Menu.xaml.cs",
               "RelativeDocumentMoniker": "Mainwindow\\Menu.xaml.cs",
               "ToolTip": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\Menu.xaml.cs",
               "RelativeToolTip": "Mainwindow\\Menu.xaml.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAYwB0AAABTAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAywCIAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T15:39:07.365Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Menu.xaml",
               "DocumentMoniker": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\Menu.xaml",
               "RelativeDocumentMoniker": "Mainwindow\\Menu.xaml",
@@ -75,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "App.g.i.cs",
               "DocumentMoniker": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
               "RelativeDocumentMoniker": "Mainwindow\\obj\\Debug\\net8.0-windows\\App.g.i.cs",
@@ -87,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "Mainwindow\\AssemblyInfo.cs",
@@ -99,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "App.xaml",
               "DocumentMoniker": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\App.xaml",
               "RelativeDocumentMoniker": "Mainwindow\\App.xaml",
@@ -111,19 +127,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Contact.xaml",
               "DocumentMoniker": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\Contact.xaml",
               "RelativeDocumentMoniker": "Mainwindow\\Contact.xaml",
               "ToolTip": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\Contact.xaml",
               "RelativeToolTip": "Mainwindow\\Contact.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-24T15:50:46.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T15:50:46.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Mainwindow.csproj",
               "DocumentMoniker": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\Mainwindow.csproj",
               "RelativeDocumentMoniker": "Mainwindow\\Mainwindow.csproj",
@@ -131,24 +146,22 @@
               "RelativeToolTip": "Mainwindow\\Mainwindow.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-24T15:49:58.081Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T15:49:58.081Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Mainwindow\\MainWindow.xaml",
               "ToolTip": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\MainWindow.xaml",
               "RelativeToolTip": "Mainwindow\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-24T15:49:40.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T15:49:40.154Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "E:\\Study\\WPF\\BikeShop\\Mainwindow\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Mainwindow\\MainWindow.xaml.cs",
@@ -156,8 +169,7 @@
               "RelativeToolTip": "Mainwindow\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAwBMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T15:49:38.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T15:49:38.614Z"
             }
           ]
         }
