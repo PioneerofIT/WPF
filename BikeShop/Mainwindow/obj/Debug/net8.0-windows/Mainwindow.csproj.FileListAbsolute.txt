@@ -25,3 +25,5 @@ E:\Study\WPF\BikeShop\Mainwindow\obj\Debug\net8.0-windows\Menu.baml
 E:\Study\WPF\BikeShop\Mainwindow\obj\Debug\net8.0-windows\Discussion.g.cs
 E:\Study\WPF\BikeShop\Mainwindow\obj\Debug\net8.0-windows\Discussion.baml
 E:\Study\WPF\BikeShop\Mainwindow\obj\Debug\net8.0-windows\Mainwindow.sourcelink.json
+E:\Study\WPF\BikeShop\Mainwindow\obj\Debug\net8.0-windows\ProductManagement.g.cs
+E:\Study\WPF\BikeShop\Mainwindow\obj\Debug\net8.0-windows\ProductManagement.baml
