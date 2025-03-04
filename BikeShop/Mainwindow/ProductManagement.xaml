@@ -15,7 +15,24 @@
         <Border
             DataContext="{Binding SelectedItem ,ElementName=dataGrid}" 
             BorderThickness="1" Margin="35,66,370,36" BorderBrush="#FFF3EDED">
-  
+
+            <StackPanel Margin="10">
+                <TextBlock Text="Product details"
+                    FontWeight="Bold"
+                    FontSize="16"
+                    HorizontalAlignment="Center"
+                    Margin="10"  />
+                <TextBox Text="Title"/>
+                <TextBox Text="{Binding Title, Mode=TwoWay}"/>
+                <TextBlock Text="Price"/>
+                <TextBox Text="{Binding Price, Mode=TwoWay}"/>
+                <TextBlock Text="Color"/>
+                <TextBox Text="{Binding Color, Mode=TwoWay}"/>
+                <Border Background="{Binding Color}"
+                        Height="10"/>
+                <TextBlock Text="Reference"/>
+                <TextBox Text="{Binding Reference, Mode=TwoWay}"/>
+            </StackPanel>
         </Border>
 
     </Grid>
