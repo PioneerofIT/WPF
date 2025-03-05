@@ -1,0 +1,39 @@
+﻿<Page x:Class="Mainwindow.ProductManagement"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Mainwindow"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="ProductManagement">
+
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="35,23,0,0" TextWrapping="Wrap" Text="Serch" VerticalAlignment="Top" Height="26" Width="98"/>
+        <TextBox Name ="textBox"  HorizontalAlignment="Left" Margin="160,23,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="613" Height="26"  TextChanged="TextBox_TextChanged"/>
+        <DataGrid Name="dataGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="445,67,27,36" />
+        <Border
+            DataContext="{Binding SelectedItem ,ElementName=dataGrid}" 
+            BorderThickness="1" Margin="35,66,370,36" BorderBrush="#FFF3EDED">
+
+            <StackPanel Margin="10">
+                <TextBlock Text="Product details"
+                    FontWeight="Bold"
+                    FontSize="16"
+                    HorizontalAlignment="Center"
+                    Margin="10"  />
+                <TextBox Text="Title"/>
+                <TextBox Text="{Binding Title, Mode=TwoWay}"/>
+                <TextBlock Text="Price"/>
+                <TextBox Text="{Binding Price, Mode=TwoWay}"/>
+                <TextBlock Text="Color"/>
+                <TextBox Text="{Binding Color, Mode=TwoWay}"/>
+                <Border Background="{Binding Color}"
+                        Height="10"/>
+                <TextBlock Text="Reference"/>
+                <TextBox Text="{Binding Reference, Mode=TwoWay}"/>
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Page>
